@@ -39,7 +39,7 @@ class Ideone {
 			array[firstEmpty] = value;
 		}
 		else{
-			System.out.println("sorry, but the first stack is full");
+			System.out.println("sorry, but the second stack is full");
 		}
 	}
 	
